@@ -8,7 +8,6 @@ console.log('Olá ' + nome + ' ' + sobrenome + ', então você estuda ' + curso 
 const num1 = 8; 
 const num2 = 4; 
 
-// Realizando operações
 let soma = num1 + num2;
 let sub = num1 - num2;
 let mult = num1 * num2;
